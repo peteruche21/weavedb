@@ -1,5 +1,5 @@
 module.exports = {
-  contractTxId: "1gU_EmELb5-sqqlURuBQFCD0HTlBxHLLZhUojIXxj78",
+  contractTxId: "vglKtaOpP5FQoEGp26KwXVZ-vTnEEqNqU_g51nGwNkw",
   arweave: {
     host: "arweave.net",
     port: 443,
